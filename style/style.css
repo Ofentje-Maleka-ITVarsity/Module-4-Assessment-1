@@ -1,0 +1,86 @@
+body{ 
+    margin: 0;
+    padding: 0;  
+    width: 100%;                                           
+    background-color:rgb(56, 207, 253); 
+ }
+
+.left-column{
+    width: 55%;
+    float: left;
+    background-color:aqua;     
+ }
+
+#eyes img{
+    width: 50px;
+    margin-left:20px;
+    margin-top:20px;
+}
+
+#face-hair img{
+    width: 50px;
+    margin-left:20px;
+    margin-top:20px;
+}
+
+#hair img{
+    width: 130px;
+    margin-left:20px;
+    margin-top:20px;
+}
+
+#shirt img{
+    width: 160px;
+    margin-left:20px;
+    margin-top:20px;
+}
+
+/*#hat img{
+    width: 160px;
+    margin-left:20px;
+    margin-top:20px;
+}*/
+
+#mouth img{
+    width: 50px;
+    margin-left:20px;
+    margin-top:20px;
+}
+
+#shoe img{
+    width: 60px;
+    margin-left:20px;
+    margin-top:20px;
+}
+
+#glasses img{
+    width: 80px;
+    margin-left:20px;
+    margin-top:20px;
+}
+
+.left-column img{
+    width: 100px;
+    margin-left:20px;
+    margin-top:20px;
+}
+
+#right-column{
+   width: 40%;
+   float: right;
+   height: 143% ;
+       
+}
+
+#right-column img{
+    width: 200px;
+    margin-left:140px;
+    margin-top:100px;
+}
+
+img#logo{
+   position:fixed;
+   width:150px;
+   bottom:20px;
+   right:10px
+}
